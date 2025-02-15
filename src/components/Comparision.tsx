@@ -186,13 +186,13 @@ const list = {
                         <span className='text-red-400'>
                           -
                         </span>
-                        <span>Without Techy</span>
+                        <span>Without Agents</span>
                       </span>
                       <span className='flex gap-1.5 items-center mt-2'>
                         <span className='text-green-400'>
                           -
                         </span>
-                        <span>With Techy</span>
+                        <span>With Agents</span>
                       </span>
                 </motion.div>
             </div>
